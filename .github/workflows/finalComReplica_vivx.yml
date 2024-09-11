@@ -3,7 +3,7 @@ name: Build, Deploy, and Failover to Azure Web App - vivx
 on:
   push:
     branches:
-      - copiaTeste
+      - finalComReplica
   workflow_dispatch:
 
 jobs:
